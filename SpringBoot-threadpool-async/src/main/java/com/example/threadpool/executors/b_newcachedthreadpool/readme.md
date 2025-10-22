@@ -1,0 +1,1 @@
+Executors.newCachedThreadPool: 创建一个可缓存的线程池，若线程数超过处理所需，缓存一段时间后会回收，若线程数不够，则新建线程
